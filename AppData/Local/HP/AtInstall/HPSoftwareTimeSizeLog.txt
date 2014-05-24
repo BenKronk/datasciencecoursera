@@ -1,0 +1,27 @@
+
+
+Name	Size (KB)	Time (s)
+Total		8
+## Wait Time is calculated by subtracting the amount of time for each item from the total time.
+
+Name	Size (KB)	Time (s)
+Startup		6
+HP ENVY 4500 series Basic Device Software	164094	31
+Product Improvement Study for HP ENVY 4500 series	9824	4
+HP Update	4168	12
+HP ENVY 4500 series Help	8684	2
+HP Photo Creations	14950	3
+HP Smart Print	10445	0
+
+
+Name	Size (KB)	Time (s)
+Total		4
+## Wait Time is calculated by subtracting the amount of time for each item from the total time.
+
+Name	Size (KB)	Time (s)
+Startup		19
+HP ENVY 4500 series Basic Device Software	84494	17
+MSI Diagnostics		1
+HP ENVY 4500 series Basic Device Software	84494	4
+Total		118
+## Wait Time is calculated by subtracting the amount of time for each item from the total time.

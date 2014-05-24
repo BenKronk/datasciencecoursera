@@ -1,0 +1,9 @@
+C:\Program Files\WindowsApps\Microsoft.BingFinance_3.0.2.243_x64__8wekyb3d8bbwe\Platform.winmd	0
+C:\Program Files\WindowsApps\Microsoft.BingNews_3.0.2.243_x64__8wekyb3d8bbwe\Platform.winmd	0
+C:\Program Files\WindowsApps\Microsoft.BingNews_3.0.2.243_x64__8wekyb3d8bbwe\Microsoft.PerfTrack.winmd	0
+C:\Program Files\WindowsApps\Microsoft.BingNews_3.0.2.243_x64__8wekyb3d8bbwe\SqliteWrapper.winmd	0
+C:\Program Files\WindowsApps\Microsoft.BingSports_3.0.2.243_x64__8wekyb3d8bbwe\Platform.winmd	0
+C:\Program Files\WindowsApps\Microsoft.BingWeather_3.0.2.243_x64__8wekyb3d8bbwe\Platform.winmd	0
+C:\Program Files\WindowsApps\Microsoft.BingWeather_3.0.2.243_x64__8wekyb3d8bbwe\Microsoft.PerfTrack.winmd	0
+C:\Program Files\WindowsApps\Microsoft.BingWeather_3.0.2.243_x64__8wekyb3d8bbwe\SqliteWrapper.winmd	0
+C:\Program Files\WindowsApps\Microsoft.BingWeather_3.0.2.243_x64__8wekyb3d8bbwe\Microsoft.Bing.AppEx.Telemetry.winmd	0

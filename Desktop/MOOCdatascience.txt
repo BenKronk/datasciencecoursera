@@ -1,0 +1,23 @@
+WEEK
+Descriptive
+Exploratory - relationships
+Inferential - use sample to describe
+Predictive - predict
+Causal - one variable changes, how does another change?
+Mechanistic - exact changes lead to other exact changes
+
+Data - values belonging to a set of items
+
+jleek/github
+
+Confounding - other key variables that might cause a relationship
+
+Sensitivity
+Specificity
+Positive Predict
+Negative Predict
+Accuracy
+
+REplication
+Variability
+Transparent

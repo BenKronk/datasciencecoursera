@@ -1,0 +1,38 @@
+
+
+Name	Size (KB)	Time (s)
+
+
+Name	Size (KB)	Time (s)
+Searching for devices		23
+
+
+Name	Size (KB)	Time (s)
+Searching for devices		18
+Installing device		306
+Searching for devices		4
+Installing device		5
+Total		3656
+## Wait Time is calculated by subtracting the amount of time for each item from the total time.
+
+Name	Size (KB)	Time (s)
+Searching for devices		21
+Installing device		2
+Post Install: EPrint Setup		1
+Post Install Total		4
+## Subtract the Post Install Total from the total time to get the time to get to Finish screen.
+Post Install: Scan Activation		0
+Post Install: Toolbox Setup		17
+Total		66
+## Wait Time is calculated by subtracting the amount of time for each item from the total time.
+
+Name	Size (KB)	Time (s)
+Searching for devices		9
+Installing device		8
+Post Install: EPrint Setup		1
+Post Install Total		3
+## Subtract the Post Install Total from the total time to get the time to get to Finish screen.
+Post Install: Scan Activation		0
+Post Install: Toolbox Setup		7
+Total		48
+## Wait Time is calculated by subtracting the amount of time for each item from the total time.

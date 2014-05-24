@@ -1,0 +1,49 @@
+Strategy & Operations Analyst
+
+Trulia is a successful rapidly growing Internet technology company, redefining the home search experience for consumers and changing the way that real estate professionals build their businesses. Our marketplace, delivered through the web and mobile applications, gives consumers powerful tools to research homes and neighborhoods and enables real estate professionals to efficiently market their listings and attract new clients.  Trulia was founded in 2005, backed by Accel Partners and Sequoia Capital, and had a successful IPO in 2012. Trulia is headquartered in downtown San Francisco with offices in Denver and New York.
+
+We are currently looking for a Strategy & Operations Associate Analyst. You will join a high-impact, cross-functional team functioning as an internal consultant to drive strategic, operational, and organizational improvements to support the growth and profitability of Trulia’s expanding marketplace business. You should be highly analytical and passionate about finding insights in large data sets. You are ready to drive practical business impact and roll up your sleeves to implement recommendations and contribute in a fast-paced, entrepreneurial environment.
+
+Responsibilities
+
+    Partner with all parts of the Trulia team – sales, sales operations, marketing, product, engineering, finance – to understand and solve critical problems
+    Distill complex issues into structured frameworks and concrete action plans
+    Own end-to-end process for translating insights to actions - from determining data requirements, to querying our databases, to crunching the numbers and communicating the “so what” to business partners
+    Identify metrics to evaluate business performance.  Build, develop and refine reporting solutions for sales professionals and management
+    Support sales compensation analysis, including forecasting, structuring target and incentives and evaluating compensation plan effectiveness
+
+
+Qualifications
+
+    Strong problem solving ability, demonstrating creativity and resourcefulness
+    Able to design, lead and execute analysis. Bring structure to answer ambiguous business questions
+    Highly entrepreneurial and comfortable working in a fast-paced environment
+    Financial modeling skills required
+    Experience working with relational databases preferred. Working knowledge of SQL or demonstrated experience writing code
+    2-4 years of experience (post BA/BS) in business strategy, finance or analytics required. Experience from strategy consulting or investment banking preferred
+
+Marketing Analyst
+ 
+Trulia is seeking a marketing analyst who will help us give homebuyers, sellers, owners, and renters the inside scoop on all things real estate.  We're a high velocity company, and this is your chance to join our team and have a major impact!
+ 
+The Marketing Analyst will help Trulia create meaningful, lasting relationships with our consumer users.  You'll make sense of millions of data points to help us better understand our core users and meet their needs. Your work will drive the strategy behind our consumer marketing programs by identifying key opportunities to attract, engage and convert users.
+
+The ideal candidate for this role is a highly analytical thinker who wants to apply their thinking to brand, business and marketing strategies.   The thought of spending hours in SQL databases and writing Excel functions makes you swoon; you thrive in a metrics-driven environment.  You're an execution machine, and you believe that attention to detail helps drive success.  You like working with passionate people that uphold Trulia's core values, which you should also share: Innovate, Make a Difference, People Matter, Act with Integrity, Customer Obsessed, Trust and Respect Each Other.
+ 
+Requirements:
+
+    2-4 years consulting or analytics experience, marketing-focus preferred
+    Experience analyzing attitudinal data as well as behavioral data and joining the two
+    Significant Excel and database experience required, SQL preferred
+    BA/BS with emphasis on quantitative research methods, degree in statistics or math preferred
+    Deep knowledge of experimental design
+    Creative, open-minded, and enthusiastic about seeking new solutions to problems and opportunities
+    Comfortable multi-tasking and eager to take on more projects
+
+ Key Responsibilities:
+
+    Work with the Director Market Research to analyze data from quantitative research projects helping us better segment and understand core users
+    Lead in-depth analysis of email lifecycle for homebuyers, sellers, owners, and renters, identifying key opportunities for contact
+    Work with email engineering and data warehousing teams to target most relevant audiences and build user behavioral database
+    Support the individual requirements of the channel marketing teams (email, community, social media, marketing partnerships)
+    Lead efforts to track multi-channel marketing programs and determine campaign ROI

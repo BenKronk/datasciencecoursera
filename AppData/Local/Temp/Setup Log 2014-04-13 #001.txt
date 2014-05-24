@@ -1,0 +1,487 @@
+2014-04-13 17:35:37.813   Log opened. (Time zone: UTC-04:00)
+2014-04-13 17:35:37.813   Setup version: Inno Setup version 5.5.2 (a)
+2014-04-13 17:35:37.813   Original Setup EXE: C:\Users\kronkben\AppData\Local\Google\Update\Install\{9D7C340D-4EAA-4234-A036-CAA2E4741BB1}\chromecast-app-1.5.316.0.exe
+2014-04-13 17:35:37.813   Setup command line: /SL5="$204DC,1115312,402432,C:\Users\kronkben\AppData\Local\Google\Update\Install\{9D7C340D-4EAA-4234-A036-CAA2E4741BB1}\chromecast-app-1.5.316.0.exe" /VERYSILENT /SUPPRESSMSGBOXES
+2014-04-13 17:35:37.813   Windows version: 6.2.9200  (NT platform: Yes)
+2014-04-13 17:35:37.813   64-bit Windows: Yes
+2014-04-13 17:35:37.813   Processor architecture: x64
+2014-04-13 17:35:37.813   User privileges: None
+2014-04-13 17:35:37.829   64-bit install mode: No
+2014-04-13 17:35:37.829   Created temporary directory: C:\Users\kronkben\AppData\Local\Temp\is-R8TC2.tmp
+2014-04-13 17:35:38.157   Found Uninstall string: 
+2014-04-13 17:35:38.157   Running as System: 0
+2014-04-13 17:35:38.157   User name: kronkben
+2014-04-13 17:35:38.157   Computer name: BKPC2013
+2014-04-13 17:35:40.611   Starting the installation process.
+2014-04-13 17:35:40.611   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast
+2014-04-13 17:35:40.611   Directory for uninstall files: C:\Users\kronkben\AppData\Local\Google\Chromecast
+2014-04-13 17:35:40.611   Creating new uninstall log: C:\Users\kronkben\AppData\Local\Google\Chromecast\unins000.dat
+2014-04-13 17:35:40.627   -- File entry --
+2014-04-13 17:35:40.627   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\unins000.exe
+2014-04-13 17:35:40.627   Time stamp of our file: 2014-04-13 17:35:37.313
+2014-04-13 17:35:40.627   Installing the file.
+2014-04-13 17:35:40.627   Uninstaller requires administrator: No
+2014-04-13 17:35:40.674   Successfully installed the file.
+2014-04-13 17:35:40.674   -- File entry --
+2014-04-13 17:35:40.674   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ChromecastApp.exe
+2014-04-13 17:35:40.674   Time stamp of our file: 2014-03-13 16:27:00.000
+2014-04-13 17:35:40.674   Installing the file.
+2014-04-13 17:35:40.830   Successfully installed the file.
+2014-04-13 17:35:40.830   -- File entry --
+2014-04-13 17:35:40.830   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\GoogleUpdateTypeLib.dll
+2014-04-13 17:35:40.830   Time stamp of our file: 2014-03-13 16:26:12.000
+2014-04-13 17:35:40.830   Installing the file.
+2014-04-13 17:35:40.846   Successfully installed the file.
+2014-04-13 17:35:40.846   -- File entry --
+2014-04-13 17:35:40.846   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ChromecastApp.application
+2014-04-13 17:35:40.846   Time stamp of our file: 2014-03-13 16:26:58.000
+2014-04-13 17:35:40.846   Installing the file.
+2014-04-13 17:35:40.846   Successfully installed the file.
+2014-04-13 17:35:40.846   -- File entry --
+2014-04-13 17:35:40.846   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ChromecastApp.exe.manifest
+2014-04-13 17:35:40.846   Time stamp of our file: 2014-03-13 16:26:58.000
+2014-04-13 17:35:40.846   Installing the file.
+2014-04-13 17:35:40.861   Successfully installed the file.
+2014-04-13 17:35:40.861   -- File entry --
+2014-04-13 17:35:40.861   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ar\ChromecastApp.resources.dll
+2014-04-13 17:35:40.861   Time stamp of our file: 2014-03-13 16:26:40.000
+2014-04-13 17:35:40.861   Installing the file.
+2014-04-13 17:35:40.861   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\ar
+2014-04-13 17:35:40.877   Successfully installed the file.
+2014-04-13 17:35:40.877   -- File entry --
+2014-04-13 17:35:40.877   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\bg\ChromecastApp.resources.dll
+2014-04-13 17:35:40.877   Time stamp of our file: 2014-03-13 16:26:40.000
+2014-04-13 17:35:40.877   Installing the file.
+2014-04-13 17:35:40.877   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\bg
+2014-04-13 17:35:40.877   Successfully installed the file.
+2014-04-13 17:35:40.877   -- File entry --
+2014-04-13 17:35:40.877   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ca\ChromecastApp.resources.dll
+2014-04-13 17:35:40.877   Time stamp of our file: 2014-03-13 16:26:40.000
+2014-04-13 17:35:40.877   Installing the file.
+2014-04-13 17:35:40.877   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\ca
+2014-04-13 17:35:40.893   Successfully installed the file.
+2014-04-13 17:35:40.893   -- File entry --
+2014-04-13 17:35:40.893   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\cs\ChromecastApp.resources.dll
+2014-04-13 17:35:40.893   Time stamp of our file: 2014-03-13 16:26:40.000
+2014-04-13 17:35:40.893   Installing the file.
+2014-04-13 17:35:40.893   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\cs
+2014-04-13 17:35:40.908   Successfully installed the file.
+2014-04-13 17:35:40.908   -- File entry --
+2014-04-13 17:35:40.908   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\da\ChromecastApp.resources.dll
+2014-04-13 17:35:40.908   Time stamp of our file: 2014-03-13 16:26:42.000
+2014-04-13 17:35:40.908   Installing the file.
+2014-04-13 17:35:40.908   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\da
+2014-04-13 17:35:40.924   Successfully installed the file.
+2014-04-13 17:35:40.924   -- File entry --
+2014-04-13 17:35:40.924   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\de\ChromecastApp.resources.dll
+2014-04-13 17:35:40.924   Time stamp of our file: 2014-03-13 16:26:42.000
+2014-04-13 17:35:40.924   Installing the file.
+2014-04-13 17:35:40.924   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\de
+2014-04-13 17:35:40.939   Successfully installed the file.
+2014-04-13 17:35:40.939   -- File entry --
+2014-04-13 17:35:40.939   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\de-AT\ChromecastApp.resources.dll
+2014-04-13 17:35:40.939   Time stamp of our file: 2014-03-13 16:26:42.000
+2014-04-13 17:35:40.939   Installing the file.
+2014-04-13 17:35:40.939   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\de-AT
+2014-04-13 17:35:40.955   Successfully installed the file.
+2014-04-13 17:35:40.955   -- File entry --
+2014-04-13 17:35:40.955   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\de-CH\ChromecastApp.resources.dll
+2014-04-13 17:35:40.955   Time stamp of our file: 2014-03-13 16:26:42.000
+2014-04-13 17:35:40.955   Installing the file.
+2014-04-13 17:35:40.955   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\de-CH
+2014-04-13 17:35:40.971   Successfully installed the file.
+2014-04-13 17:35:40.971   -- File entry --
+2014-04-13 17:35:40.971   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\el\ChromecastApp.resources.dll
+2014-04-13 17:35:40.971   Time stamp of our file: 2014-03-13 16:26:42.000
+2014-04-13 17:35:40.971   Installing the file.
+2014-04-13 17:35:40.971   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\el
+2014-04-13 17:35:40.986   Successfully installed the file.
+2014-04-13 17:35:40.986   -- File entry --
+2014-04-13 17:35:40.986   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\en-GB\ChromecastApp.resources.dll
+2014-04-13 17:35:40.986   Time stamp of our file: 2014-03-13 16:26:42.000
+2014-04-13 17:35:40.986   Installing the file.
+2014-04-13 17:35:40.986   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\en-GB
+2014-04-13 17:35:41.002   Successfully installed the file.
+2014-04-13 17:35:41.002   -- File entry --
+2014-04-13 17:35:41.002   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\en-IE\ChromecastApp.resources.dll
+2014-04-13 17:35:41.002   Time stamp of our file: 2014-03-13 16:26:42.000
+2014-04-13 17:35:41.002   Installing the file.
+2014-04-13 17:35:41.002   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\en-IE
+2014-04-13 17:35:41.002   Successfully installed the file.
+2014-04-13 17:35:41.002   -- File entry --
+2014-04-13 17:35:41.002   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\en-ZA\ChromecastApp.resources.dll
+2014-04-13 17:35:41.002   Time stamp of our file: 2014-03-13 16:26:42.000
+2014-04-13 17:35:41.002   Installing the file.
+2014-04-13 17:35:41.018   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\en-ZA
+2014-04-13 17:35:41.018   Successfully installed the file.
+2014-04-13 17:35:41.018   -- File entry --
+2014-04-13 17:35:41.018   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es\ChromecastApp.resources.dll
+2014-04-13 17:35:41.018   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.018   Installing the file.
+2014-04-13 17:35:41.018   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es
+2014-04-13 17:35:41.033   Successfully installed the file.
+2014-04-13 17:35:41.033   -- File entry --
+2014-04-13 17:35:41.033   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-AR\ChromecastApp.resources.dll
+2014-04-13 17:35:41.033   Time stamp of our file: 2014-03-13 16:26:42.000
+2014-04-13 17:35:41.033   Installing the file.
+2014-04-13 17:35:41.033   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-AR
+2014-04-13 17:35:41.049   Successfully installed the file.
+2014-04-13 17:35:41.049   -- File entry --
+2014-04-13 17:35:41.049   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-BO\ChromecastApp.resources.dll
+2014-04-13 17:35:41.049   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.049   Installing the file.
+2014-04-13 17:35:41.049   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-BO
+2014-04-13 17:35:41.064   Successfully installed the file.
+2014-04-13 17:35:41.064   -- File entry --
+2014-04-13 17:35:41.064   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-CL\ChromecastApp.resources.dll
+2014-04-13 17:35:41.064   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.064   Installing the file.
+2014-04-13 17:35:41.064   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-CL
+2014-04-13 17:35:41.080   Successfully installed the file.
+2014-04-13 17:35:41.080   -- File entry --
+2014-04-13 17:35:41.080   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-CO\ChromecastApp.resources.dll
+2014-04-13 17:35:41.080   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.080   Installing the file.
+2014-04-13 17:35:41.080   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-CO
+2014-04-13 17:35:41.080   Successfully installed the file.
+2014-04-13 17:35:41.080   -- File entry --
+2014-04-13 17:35:41.080   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-CR\ChromecastApp.resources.dll
+2014-04-13 17:35:41.080   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.080   Installing the file.
+2014-04-13 17:35:41.096   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-CR
+2014-04-13 17:35:41.096   Successfully installed the file.
+2014-04-13 17:35:41.096   -- File entry --
+2014-04-13 17:35:41.096   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-DO\ChromecastApp.resources.dll
+2014-04-13 17:35:41.096   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.096   Installing the file.
+2014-04-13 17:35:41.096   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-DO
+2014-04-13 17:35:41.111   Successfully installed the file.
+2014-04-13 17:35:41.111   -- File entry --
+2014-04-13 17:35:41.111   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-EC\ChromecastApp.resources.dll
+2014-04-13 17:35:41.111   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.111   Installing the file.
+2014-04-13 17:35:41.111   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-EC
+2014-04-13 17:35:41.127   Successfully installed the file.
+2014-04-13 17:35:41.127   -- File entry --
+2014-04-13 17:35:41.127   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-GT\ChromecastApp.resources.dll
+2014-04-13 17:35:41.127   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.127   Installing the file.
+2014-04-13 17:35:41.127   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-GT
+2014-04-13 17:35:41.143   Successfully installed the file.
+2014-04-13 17:35:41.143   -- File entry --
+2014-04-13 17:35:41.143   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-HN\ChromecastApp.resources.dll
+2014-04-13 17:35:41.143   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.143   Installing the file.
+2014-04-13 17:35:41.143   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-HN
+2014-04-13 17:35:41.158   Successfully installed the file.
+2014-04-13 17:35:41.158   -- File entry --
+2014-04-13 17:35:41.158   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-MX\ChromecastApp.resources.dll
+2014-04-13 17:35:41.158   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.158   Installing the file.
+2014-04-13 17:35:41.158   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-MX
+2014-04-13 17:35:41.158   Successfully installed the file.
+2014-04-13 17:35:41.158   -- File entry --
+2014-04-13 17:35:41.158   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-NI\ChromecastApp.resources.dll
+2014-04-13 17:35:41.158   Time stamp of our file: 2014-03-13 16:26:44.000
+2014-04-13 17:35:41.158   Installing the file.
+2014-04-13 17:35:41.158   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-NI
+2014-04-13 17:35:41.174   Successfully installed the file.
+2014-04-13 17:35:41.174   -- File entry --
+2014-04-13 17:35:41.174   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-PA\ChromecastApp.resources.dll
+2014-04-13 17:35:41.174   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.174   Installing the file.
+2014-04-13 17:35:41.174   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-PA
+2014-04-13 17:35:41.189   Successfully installed the file.
+2014-04-13 17:35:41.189   -- File entry --
+2014-04-13 17:35:41.189   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-PE\ChromecastApp.resources.dll
+2014-04-13 17:35:41.189   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.189   Installing the file.
+2014-04-13 17:35:41.189   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-PE
+2014-04-13 17:35:41.205   Successfully installed the file.
+2014-04-13 17:35:41.205   -- File entry --
+2014-04-13 17:35:41.205   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-PR\ChromecastApp.resources.dll
+2014-04-13 17:35:41.205   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.205   Installing the file.
+2014-04-13 17:35:41.205   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-PR
+2014-04-13 17:35:41.221   Successfully installed the file.
+2014-04-13 17:35:41.221   -- File entry --
+2014-04-13 17:35:41.221   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-PY\ChromecastApp.resources.dll
+2014-04-13 17:35:41.221   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.221   Installing the file.
+2014-04-13 17:35:41.221   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-PY
+2014-04-13 17:35:41.236   Successfully installed the file.
+2014-04-13 17:35:41.236   -- File entry --
+2014-04-13 17:35:41.236   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-SV\ChromecastApp.resources.dll
+2014-04-13 17:35:41.236   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.236   Installing the file.
+2014-04-13 17:35:41.236   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-SV
+2014-04-13 17:35:41.236   Successfully installed the file.
+2014-04-13 17:35:41.236   -- File entry --
+2014-04-13 17:35:41.236   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-UY\ChromecastApp.resources.dll
+2014-04-13 17:35:41.236   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.236   Installing the file.
+2014-04-13 17:35:41.236   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-UY
+2014-04-13 17:35:41.252   Successfully installed the file.
+2014-04-13 17:35:41.252   -- File entry --
+2014-04-13 17:35:41.252   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-VE\ChromecastApp.resources.dll
+2014-04-13 17:35:41.252   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.252   Installing the file.
+2014-04-13 17:35:41.252   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\es-VE
+2014-04-13 17:35:41.268   Successfully installed the file.
+2014-04-13 17:35:41.268   -- File entry --
+2014-04-13 17:35:41.268   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\et\ChromecastApp.resources.dll
+2014-04-13 17:35:41.268   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.268   Installing the file.
+2014-04-13 17:35:41.268   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\et
+2014-04-13 17:35:41.283   Successfully installed the file.
+2014-04-13 17:35:41.283   -- File entry --
+2014-04-13 17:35:41.283   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\fa\ChromecastApp.resources.dll
+2014-04-13 17:35:41.283   Time stamp of our file: 2014-03-13 16:26:46.000
+2014-04-13 17:35:41.283   Installing the file.
+2014-04-13 17:35:41.283   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\fa
+2014-04-13 17:35:41.299   Successfully installed the file.
+2014-04-13 17:35:41.299   -- File entry --
+2014-04-13 17:35:41.299   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\fi\ChromecastApp.resources.dll
+2014-04-13 17:35:41.299   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.299   Installing the file.
+2014-04-13 17:35:41.299   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\fi
+2014-04-13 17:35:41.314   Successfully installed the file.
+2014-04-13 17:35:41.314   -- File entry --
+2014-04-13 17:35:41.314   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\fr\ChromecastApp.resources.dll
+2014-04-13 17:35:41.314   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.314   Installing the file.
+2014-04-13 17:35:41.314   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\fr
+2014-04-13 17:35:41.330   Successfully installed the file.
+2014-04-13 17:35:41.330   -- File entry --
+2014-04-13 17:35:41.330   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\fr-CH\ChromecastApp.resources.dll
+2014-04-13 17:35:41.330   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.330   Installing the file.
+2014-04-13 17:35:41.330   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\fr-CH
+2014-04-13 17:35:41.330   Successfully installed the file.
+2014-04-13 17:35:41.330   -- File entry --
+2014-04-13 17:35:41.330   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\gu\ChromecastApp.resources.dll
+2014-04-13 17:35:41.330   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.330   Installing the file.
+2014-04-13 17:35:41.346   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\gu
+2014-04-13 17:35:41.346   Successfully installed the file.
+2014-04-13 17:35:41.346   -- File entry --
+2014-04-13 17:35:41.346   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\he\ChromecastApp.resources.dll
+2014-04-13 17:35:41.346   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.346   Installing the file.
+2014-04-13 17:35:41.346   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\he
+2014-04-13 17:35:41.361   Successfully installed the file.
+2014-04-13 17:35:41.361   -- File entry --
+2014-04-13 17:35:41.361   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\hi\ChromecastApp.resources.dll
+2014-04-13 17:35:41.361   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.361   Installing the file.
+2014-04-13 17:35:41.361   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\hi
+2014-04-13 17:35:41.377   Successfully installed the file.
+2014-04-13 17:35:41.377   -- File entry --
+2014-04-13 17:35:41.377   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\hr\ChromecastApp.resources.dll
+2014-04-13 17:35:41.377   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.377   Installing the file.
+2014-04-13 17:35:41.377   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\hr
+2014-04-13 17:35:41.393   Successfully installed the file.
+2014-04-13 17:35:41.393   -- File entry --
+2014-04-13 17:35:41.393   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\hu\ChromecastApp.resources.dll
+2014-04-13 17:35:41.393   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.393   Installing the file.
+2014-04-13 17:35:41.393   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\hu
+2014-04-13 17:35:41.408   Successfully installed the file.
+2014-04-13 17:35:41.408   -- File entry --
+2014-04-13 17:35:41.408   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\id\ChromecastApp.resources.dll
+2014-04-13 17:35:41.408   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.408   Installing the file.
+2014-04-13 17:35:41.408   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\id
+2014-04-13 17:35:41.424   Successfully installed the file.
+2014-04-13 17:35:41.424   -- File entry --
+2014-04-13 17:35:41.424   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\it\ChromecastApp.resources.dll
+2014-04-13 17:35:41.424   Time stamp of our file: 2014-03-13 16:26:48.000
+2014-04-13 17:35:41.424   Installing the file.
+2014-04-13 17:35:41.424   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\it
+2014-04-13 17:35:41.439   Successfully installed the file.
+2014-04-13 17:35:41.439   -- File entry --
+2014-04-13 17:35:41.439   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ja\ChromecastApp.resources.dll
+2014-04-13 17:35:41.439   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.439   Installing the file.
+2014-04-13 17:35:41.439   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\ja
+2014-04-13 17:35:41.455   Successfully installed the file.
+2014-04-13 17:35:41.455   -- File entry --
+2014-04-13 17:35:41.455   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\kn\ChromecastApp.resources.dll
+2014-04-13 17:35:41.455   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.455   Installing the file.
+2014-04-13 17:35:41.455   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\kn
+2014-04-13 17:35:41.471   Successfully installed the file.
+2014-04-13 17:35:41.471   -- File entry --
+2014-04-13 17:35:41.471   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ko\ChromecastApp.resources.dll
+2014-04-13 17:35:41.471   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.471   Installing the file.
+2014-04-13 17:35:41.471   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\ko
+2014-04-13 17:35:41.486   Successfully installed the file.
+2014-04-13 17:35:41.486   -- File entry --
+2014-04-13 17:35:41.486   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\lt\ChromecastApp.resources.dll
+2014-04-13 17:35:41.486   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.486   Installing the file.
+2014-04-13 17:35:41.486   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\lt
+2014-04-13 17:35:41.486   Successfully installed the file.
+2014-04-13 17:35:41.486   -- File entry --
+2014-04-13 17:35:41.486   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\lv\ChromecastApp.resources.dll
+2014-04-13 17:35:41.486   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.486   Installing the file.
+2014-04-13 17:35:41.486   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\lv
+2014-04-13 17:35:41.502   Successfully installed the file.
+2014-04-13 17:35:41.502   -- File entry --
+2014-04-13 17:35:41.502   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\mr\ChromecastApp.resources.dll
+2014-04-13 17:35:41.502   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.502   Installing the file.
+2014-04-13 17:35:41.502   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\mr
+2014-04-13 17:35:41.518   Successfully installed the file.
+2014-04-13 17:35:41.518   -- File entry --
+2014-04-13 17:35:41.518   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ms\ChromecastApp.resources.dll
+2014-04-13 17:35:41.518   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.518   Installing the file.
+2014-04-13 17:35:41.518   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\ms
+2014-04-13 17:35:41.533   Successfully installed the file.
+2014-04-13 17:35:41.533   -- File entry --
+2014-04-13 17:35:41.533   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\nl\ChromecastApp.resources.dll
+2014-04-13 17:35:41.533   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.533   Installing the file.
+2014-04-13 17:35:41.533   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\nl
+2014-04-13 17:35:41.549   Successfully installed the file.
+2014-04-13 17:35:41.549   -- File entry --
+2014-04-13 17:35:41.549   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\no\ChromecastApp.resources.dll
+2014-04-13 17:35:41.549   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.549   Installing the file.
+2014-04-13 17:35:41.549   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\no
+2014-04-13 17:35:41.565   Successfully installed the file.
+2014-04-13 17:35:41.565   -- File entry --
+2014-04-13 17:35:41.565   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\pl\ChromecastApp.resources.dll
+2014-04-13 17:35:41.565   Time stamp of our file: 2014-03-13 16:26:50.000
+2014-04-13 17:35:41.565   Installing the file.
+2014-04-13 17:35:41.565   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\pl
+2014-04-13 17:35:41.580   Successfully installed the file.
+2014-04-13 17:35:41.580   -- File entry --
+2014-04-13 17:35:41.580   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\pt\ChromecastApp.resources.dll
+2014-04-13 17:35:41.580   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.580   Installing the file.
+2014-04-13 17:35:41.580   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\pt
+2014-04-13 17:35:41.596   Successfully installed the file.
+2014-04-13 17:35:41.596   -- File entry --
+2014-04-13 17:35:41.596   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\pt-BR\ChromecastApp.resources.dll
+2014-04-13 17:35:41.596   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.596   Installing the file.
+2014-04-13 17:35:41.596   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\pt-BR
+2014-04-13 17:35:41.596   Successfully installed the file.
+2014-04-13 17:35:41.596   -- File entry --
+2014-04-13 17:35:41.596   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\pt-PT\ChromecastApp.resources.dll
+2014-04-13 17:35:41.596   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.596   Installing the file.
+2014-04-13 17:35:41.596   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\pt-PT
+2014-04-13 17:35:41.611   Successfully installed the file.
+2014-04-13 17:35:41.611   -- File entry --
+2014-04-13 17:35:41.611   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ro\ChromecastApp.resources.dll
+2014-04-13 17:35:41.611   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.611   Installing the file.
+2014-04-13 17:35:41.611   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\ro
+2014-04-13 17:35:41.627   Successfully installed the file.
+2014-04-13 17:35:41.627   -- File entry --
+2014-04-13 17:35:41.627   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ru\ChromecastApp.resources.dll
+2014-04-13 17:35:41.627   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.627   Installing the file.
+2014-04-13 17:35:41.627   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\ru
+2014-04-13 17:35:41.643   Successfully installed the file.
+2014-04-13 17:35:41.643   -- File entry --
+2014-04-13 17:35:41.643   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\sk\ChromecastApp.resources.dll
+2014-04-13 17:35:41.643   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.643   Installing the file.
+2014-04-13 17:35:41.643   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\sk
+2014-04-13 17:35:41.658   Successfully installed the file.
+2014-04-13 17:35:41.658   -- File entry --
+2014-04-13 17:35:41.658   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\sl\ChromecastApp.resources.dll
+2014-04-13 17:35:41.658   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.658   Installing the file.
+2014-04-13 17:35:41.658   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\sl
+2014-04-13 17:35:41.674   Successfully installed the file.
+2014-04-13 17:35:41.674   -- File entry --
+2014-04-13 17:35:41.674   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\sr\ChromecastApp.resources.dll
+2014-04-13 17:35:41.674   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.674   Installing the file.
+2014-04-13 17:35:41.674   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\sr
+2014-04-13 17:35:41.690   Successfully installed the file.
+2014-04-13 17:35:41.690   -- File entry --
+2014-04-13 17:35:41.690   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\sv\ChromecastApp.resources.dll
+2014-04-13 17:35:41.690   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.690   Installing the file.
+2014-04-13 17:35:41.690   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\sv
+2014-04-13 17:35:41.705   Successfully installed the file.
+2014-04-13 17:35:41.705   -- File entry --
+2014-04-13 17:35:41.705   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\sw\ChromecastApp.resources.dll
+2014-04-13 17:35:41.705   Time stamp of our file: 2014-03-13 16:26:52.000
+2014-04-13 17:35:41.705   Installing the file.
+2014-04-13 17:35:41.705   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\sw
+2014-04-13 17:35:41.721   Successfully installed the file.
+2014-04-13 17:35:41.721   -- File entry --
+2014-04-13 17:35:41.721   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\ta\ChromecastApp.resources.dll
+2014-04-13 17:35:41.721   Time stamp of our file: 2014-03-13 16:26:54.000
+2014-04-13 17:35:41.721   Installing the file.
+2014-04-13 17:35:41.721   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\ta
+2014-04-13 17:35:41.736   Successfully installed the file.
+2014-04-13 17:35:41.736   -- File entry --
+2014-04-13 17:35:41.736   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\te\ChromecastApp.resources.dll
+2014-04-13 17:35:41.736   Time stamp of our file: 2014-03-13 16:26:54.000
+2014-04-13 17:35:41.736   Installing the file.
+2014-04-13 17:35:41.736   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\te
+2014-04-13 17:35:41.752   Successfully installed the file.
+2014-04-13 17:35:41.752   -- File entry --
+2014-04-13 17:35:41.752   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\th\ChromecastApp.resources.dll
+2014-04-13 17:35:41.752   Time stamp of our file: 2014-03-13 16:26:54.000
+2014-04-13 17:35:41.752   Installing the file.
+2014-04-13 17:35:41.752   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\th
+2014-04-13 17:35:41.768   Successfully installed the file.
+2014-04-13 17:35:41.768   -- File entry --
+2014-04-13 17:35:41.768   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\tr\ChromecastApp.resources.dll
+2014-04-13 17:35:41.768   Time stamp of our file: 2014-03-13 16:26:54.000
+2014-04-13 17:35:41.768   Installing the file.
+2014-04-13 17:35:41.768   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\tr
+2014-04-13 17:35:41.783   Successfully installed the file.
+2014-04-13 17:35:41.783   -- File entry --
+2014-04-13 17:35:41.783   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\uk\ChromecastApp.resources.dll
+2014-04-13 17:35:41.783   Time stamp of our file: 2014-03-13 16:26:54.000
+2014-04-13 17:35:41.783   Installing the file.
+2014-04-13 17:35:41.783   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\uk
+2014-04-13 17:35:41.799   Successfully installed the file.
+2014-04-13 17:35:41.799   -- File entry --
+2014-04-13 17:35:41.799   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\vi\ChromecastApp.resources.dll
+2014-04-13 17:35:41.799   Time stamp of our file: 2014-03-13 16:26:54.000
+2014-04-13 17:35:41.799   Installing the file.
+2014-04-13 17:35:41.799   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\vi
+2014-04-13 17:35:41.815   Successfully installed the file.
+2014-04-13 17:35:41.815   -- File entry --
+2014-04-13 17:35:41.815   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\zh-CN\ChromecastApp.resources.dll
+2014-04-13 17:35:41.815   Time stamp of our file: 2014-03-13 16:26:54.000
+2014-04-13 17:35:41.815   Installing the file.
+2014-04-13 17:35:41.815   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\zh-CN
+2014-04-13 17:35:41.830   Successfully installed the file.
+2014-04-13 17:35:41.830   -- File entry --
+2014-04-13 17:35:41.830   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\zh-HK\ChromecastApp.resources.dll
+2014-04-13 17:35:41.830   Time stamp of our file: 2014-03-13 16:26:54.000
+2014-04-13 17:35:41.830   Installing the file.
+2014-04-13 17:35:41.830   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\zh-HK
+2014-04-13 17:35:41.846   Successfully installed the file.
+2014-04-13 17:35:41.846   -- File entry --
+2014-04-13 17:35:41.846   Dest filename: C:\Users\kronkben\AppData\Local\Google\Chromecast\zh-TW\ChromecastApp.resources.dll
+2014-04-13 17:35:41.846   Time stamp of our file: 2014-03-13 16:26:54.000
+2014-04-13 17:35:41.846   Installing the file.
+2014-04-13 17:35:41.846   Creating directory: C:\Users\kronkben\AppData\Local\Google\Chromecast\zh-TW
+2014-04-13 17:35:41.861   Successfully installed the file.
+2014-04-13 17:35:41.861   -- Icon entry --
+2014-04-13 17:35:41.861   Filename: C:\Users\kronkben\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Chromecast\Chromecast.lnk
+2014-04-13 17:35:41.861   Creating directory: C:\Users\kronkben\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Chromecast
+2014-04-13 17:35:42.034   -- Icon entry --
+2014-04-13 17:35:42.034   Filename: C:\Users\kronkben\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Chromecast\Uninstall Chromecast.lnk
+2014-04-13 17:35:42.049   -- Icon entry --
+2014-04-13 17:35:42.049   Filename: C:\Users\kronkben\Desktop\Chromecast.lnk
+2014-04-13 17:35:42.143   Installation process succeeded.
+2014-04-13 17:35:42.143   Need to restart Windows? No
+2014-04-13 17:35:42.143   Deinitializing Setup.
+2014-04-13 17:35:42.143   Log closed.
